@@ -1,0 +1,22 @@
+{
+    "name": "mrprompt/postfix-logs",
+    "description": "Leitor de logs do Postfix.",
+    "type": "console",
+    "license": "GPL-3.0+",
+    "keywords": ["postfix", "logs", "console", "terminal"],
+    "authors": [
+        {
+            "name": "Thiago Paes",
+            "email": "mrprompt@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "support": {
+        "email": "mrprompt@gmail.com",
+        "source": "https://github.com/mrprompt/postfix-logs",
+    },
+    "require": {
+        "php": ">=5.3"
+    },
+    "minimum-stability": "dev"
+}
